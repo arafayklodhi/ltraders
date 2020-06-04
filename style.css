@@ -1,0 +1,7 @@
+*{
+    font-family: 'Josefin Sans', sans-serif !important;
+    
+}
+.card:hover i,#contact .card:hover h4{
+	color: #87d37c;
+}
